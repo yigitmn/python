@@ -1,3 +1,4 @@
+"""
 ad = input("adınızı giriniz :")
 soyad = input("soyadınzı giriniz :")
 yas = input("yaşınızı giriniz :")
@@ -20,3 +21,64 @@ print("kardeş sayısı:",kardesayisi)
 print("adı:",ders)
 print("adı:",oyun)
 print("adı:",yemek)
+"""
+###############################################################################
+"""
+ad = input("kullanici adınızı giriniz:")
+parola = input("parolanızı giriniz:")
+print(ad == "fatih" and parola == "29mayıs1453")
+fetih = 2022 - 1453
+print("İstanbul fethedileli geçen yıl:",fetih)
+"""
+###############################################################################
+
+puan = int(input("sınav notunuzu giriniz :"))
+   
+if ( puan >= 85):
+    print("pekiyi")
+elif(puan >= 70 and puan<= 84):
+    print("iyi")
+elif(puan >= 60 and puan<= 69):
+    print("orta")
+elif(puan<=59 and puan>=50):
+    print("geçer")
+elif(puan<=49 and puan>=25):
+    print("çalışmalısın")
+else:
+    print("sanayiye git")
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
