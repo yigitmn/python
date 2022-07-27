@@ -47,8 +47,21 @@ elif(puan<=49 and puan>=25):
 else:
     print("sanayiye git")
 """    
+###############################################################################    
+"""
+kullaniciadi = input("kullanıcı adınızı giriniz:")
+
+if (kullaniciadi=="fatih"):
+    parola = input("parolanızı giriniz:")
+
+else:
+    print("olamdı knk")
     
     
+    if(parola == 1234):
+        print("giriş yaptınız")
+"""       
+        
 
 
 
