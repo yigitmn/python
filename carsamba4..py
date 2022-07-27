@@ -31,7 +31,7 @@ fetih = 2022 - 1453
 print("İstanbul fethedileli geçen yıl:",fetih)
 """
 ###############################################################################
-
+"""
 puan = int(input("sınav notunuzu giriniz :"))
    
 if ( puan >= 85):
@@ -46,7 +46,7 @@ elif(puan<=49 and puan>=25):
     print("çalışmalısın")
 else:
     print("sanayiye git")
-    
+"""    
     
     
 
