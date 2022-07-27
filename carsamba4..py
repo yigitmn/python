@@ -59,9 +59,8 @@ else:
     
     
     if(parola == 1234):
-        print("giriş yaptınız")
-"""       
-        
+print("hoşgeldiniz")      
+"""        
 
 
 
